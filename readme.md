@@ -1,1 +1,3 @@
-ZeForge Academy zadaca broj 4, HTML/CSS, izrada sajta.
+ZeForge Academy zadaca broj 4
+
+Kreirati site kao na slici.
